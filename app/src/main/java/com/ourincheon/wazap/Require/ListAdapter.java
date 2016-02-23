@@ -38,7 +38,7 @@ public class ListAdapter extends ArrayAdapter<String> {
         small = (ImageView) rowView.findViewById(R.id.imageView5);
 
         dday.setText("D-14");
-        title.setText("KT&G상상마당 디자인 공모전 함께하실 분 구해요");
+        title.setText("[서울] 한화생명 보험 아이디어 공모전");
         cate.setText("영상/ucc/사진");
         man.setText("모집인원 5명");
         return rowView;

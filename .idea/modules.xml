@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WazabProject1.iml" filepath="$PROJECT_DIR$/WazabProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WazabLast.iml" filepath="$PROJECT_DIR$/WazabLast.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wazab.iml" filepath="$PROJECT_DIR$/wazab.iml" />
     </modules>
   </component>
 </project>
-

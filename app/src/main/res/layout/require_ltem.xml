@@ -7,7 +7,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="108dp">
+        android:layout_height="88dp">
 
         <LinearLayout
             android:orientation="horizontal"
@@ -32,7 +32,7 @@
                     android:layout_height="wrap_content"
                     android:text="New Text"
                     android:id="@+id/title"
-                    android:textSize="20dp" />
+                    android:textSize="17dp" />
 
                 <LinearLayout
                     android:orientation="horizontal"
@@ -60,11 +60,13 @@
             </LinearLayout>
 
             <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="신청"
+                android:layout_width="58dp"
+                android:layout_height="22dp"
                 android:id="@+id/require"
-                android:layout_weight="1" />
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:background="@drawable/require_info_button"
+                android:layout_margin="10dp" />
         </LinearLayout>
     </LinearLayout>
 
