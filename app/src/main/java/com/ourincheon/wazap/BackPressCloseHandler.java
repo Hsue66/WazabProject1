@@ -2,7 +2,6 @@ package com.ourincheon.wazap;
 
 import android.app.Activity;
 import android.widget.Toast;
-
 /**
  * Created by Youngdo on 2016-01-19.
  */

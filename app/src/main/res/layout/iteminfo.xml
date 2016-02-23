@@ -235,11 +235,18 @@
 
         </LinearLayout>
     </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/linearLayout7"
+        android:id="@+id/lineardivider1"
+        android:background="#c9c9c9"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/linearLayout7"
+        android:layout_below="@+id/lineardivider1"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true">
 

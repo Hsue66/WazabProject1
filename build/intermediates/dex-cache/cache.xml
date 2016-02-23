@@ -2,6 +2,7 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
         jar="/home/hsue/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -154,6 +155,160 @@
         revision="23.0.1"
         sha1="35708bf7ef298d7d79c22fe0e6d7dce4a5d8805f">
         <dex dex="/home/hsue/AndroidStudioProjects/WazabProject1/app/build/intermediates/pre-dexed/debug/classes-89cfaf3d3609b7deecd7d75ec2101db2c1858d51.jar" />
+=======
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.8\ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2\library-1.0.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\library-1.0.8-3870f40dc5ce397e0ca48c47366e7dfa22ed818b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-169cf2f02d5448e8282c8bd9970dc7d343587734.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.kakao.sdk\network\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="83d318091bcf5a6599895cfd210c09ec5d5e99f7">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-f6f5ec0541598294ea136e7075b13e55a2b60061.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.0-RC1\be7e96331952019f16dc52dce09ab25df29353d7\okhttp-3.0.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\okhttp-3.0.0-RC1-37ee5b8dc2f0defe9d40b72e001f7c81866053b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.10.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bcb4a50f5e2c67b3e84441b1b2a239856776c9b8">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-5fe07ccc74d1d216c5c43983cd63637528e66181.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta3-a1fd2f8df8d38f1bc360019aafb1cfbdadd3e034.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.kakao.sdk\kakaotalk\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="718b18113a82af949ac7ccb280663dcedaf7838a">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-7d6e3d10869f74f99e2041ae03858cbb142d25c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-e9fe3f2ae6a285b37308d55926b27c49bb6c7507.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-c8746eceb2b9b6366858260dbc293d2eeb6e1778.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-a13276545d92f90a2257b7f924e1037d749fa015.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.kakao.sdk\friends\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f05003d1c70f11e61a06c996621f2904f157be7f">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-04773cf5dd16986161947b1fc9c714c820159327.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-100172dc0782a9f4d059d04a9bba55a6e2111a40.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0-db21c1de5e3902655bc9181753fd3f43c78d1caa.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.kakao.sdk\util\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd274d51f5c8edd33f90cd59439813f1b8e0da6a">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-0ff33a44d10c7b84b305a3bfbe2d953ffa423574.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-69f0c194f914120a21d7ba1ff8e8f56fcad850cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.kakao.sdk\auth\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="35708bf7ef298d7d79c22fe0e6d7dce4a5d8805f">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-71cb1561d8d69ee341fb8130062cd094cb636e40.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\gson-2.6.1-95444fa07b1ab6fbce8bcd42d148ed5dff3a44bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta3\97675641051febfee098903cc0eff62f2826e34e\retrofit-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta3-7dd795d9e93f4fff4554d5cfd43c4c4a078b9db2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.kakao.sdk\usermgmt\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db5778b91fccdd64b42bf28eaf7bf3c2c6cad256">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-bf8800cc76913cc0f1245414f5680a108fce587f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\classes-f4020430d5e27621c2fcb24237cf35a55e182351.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\okio-1.6.0-5e6f620cf8fa04eaccafe59f50c789a603ad3b3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\ChaeYoungDo\AndroidStudioProjects\WazabLast\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-38841f52a64da8747befa2b24e3de156b6d5f318.jar" />
+>>>>>>> 04e09838579f50c6a1f2bf04bd4a91f96143ba2a
     </item>
 
 </items>
